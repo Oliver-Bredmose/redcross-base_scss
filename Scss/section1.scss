@@ -1,0 +1,35 @@
+/* Section 1 */
+.section1 img{
+    width: 75%;
+    justify-content: center;
+    align-items: center;;
+    top: 0;
+    left: 0;
+  }
+  
+  .section1 h2{
+    position: absolute;
+    top: 25%;
+  }
+  .section1 p{
+    position: absolute;
+    top: 35%;
+    font-size: 1.5rem;
+    width: 50%;;
+  }
+  
+  .section1 button{
+    position: absolute;
+    top: 160%;
+    margin-left: -5%;
+    background-color: var(--red-cross-red);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  .section1 button:hover{
+    background-color: var(--deep-red);
+  }
+  /* Section 1 END */
