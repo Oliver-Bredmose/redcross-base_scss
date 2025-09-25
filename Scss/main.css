@@ -1,0 +1,21 @@
+:root {
+  /* Primary */
+  --white: #FFFFFF;
+  --cool-gray-11: #6D6E70;
+  --red-cross-red: #ED1B2E;
+  --black: #000000;
+  /* Neutral */
+  --light-gray: #D7D7D8;
+  --med-gray: #9F9FA3;
+  /* Secondary */
+  --khaki: #E2D7AC;
+  --sand: #BAA996;
+  --gold: #ECB449;
+  --safety-green: #8EC06C;
+  --forest-green: #537B35;
+  --light-blue: #C4DFF6;
+  --sky-blue: #56A0D3;
+  --classic-blue: #005B95;
+  --midnight-blue: #004B79;
+  --deep-red: #7F181B;
+}/*# sourceMappingURL=main.css.map */
